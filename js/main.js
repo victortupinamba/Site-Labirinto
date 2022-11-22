@@ -278,7 +278,7 @@ var ex=document.getElementById("canvas");
 			ctx.stroke();
 
 			ctx.moveTo(550,100);                 
-			ctx.lineTo(550,180);                 
+			ctx.lineTo(550,230);                 
 			ctx.strokeStyle= "black";               
 			ctx.stroke();
 
@@ -323,7 +323,42 @@ var ex=document.getElementById("canvas");
 			ctx.strokeStyle= "black";               
 			ctx.stroke();
 
-			ctx.moveTo(530, 275);                 
+			ctx.moveTo(580, 275);                 
 			ctx.lineTo(520,275);                 
+			ctx.strokeStyle= "black";               
+			ctx.stroke();
+
+			ctx.moveTo(525, 400);                 
+			ctx.lineTo(525,500);                 
+			ctx.strokeStyle= "black";               
+			ctx.stroke();
+
+			ctx.moveTo(550, 500);                 
+			ctx.lineTo(525,500);                 
+			ctx.strokeStyle= "black";               
+			ctx.stroke();
+
+			ctx.moveTo(650, 160);                 
+			ctx.lineTo(625,160);                 
+			ctx.strokeStyle= "black";               
+			ctx.stroke();
+
+			ctx.moveTo(625, 180);                 
+			ctx.lineTo(600,180);                 
+			ctx.strokeStyle= "black";               
+			ctx.stroke();
+
+			ctx.moveTo(650, 200);                 
+			ctx.lineTo(625,200);                 
+			ctx.strokeStyle= "black";               
+			ctx.stroke();
+
+			ctx.moveTo(625, 220);                 
+			ctx.lineTo(600,220);                 
+			ctx.strokeStyle= "black";               
+			ctx.stroke();
+
+			ctx.moveTo(630, 10);                 
+			ctx.lineTo(630,140);                 
 			ctx.strokeStyle= "black";               
 			ctx.stroke();
