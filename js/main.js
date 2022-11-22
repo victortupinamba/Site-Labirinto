@@ -362,3 +362,9 @@ var ex=document.getElementById("canvas");
 			ctx.lineTo(630,140);                 
 			ctx.strokeStyle= "black";               
 			ctx.stroke();
+
+			ctx.strokeStyle="wred";
+			ctx.lineWidth=8;
+			ctx.beginPath();
+			ctx.arc(150,325,6,30,30.5*PI);
+			ctx.stroke();
