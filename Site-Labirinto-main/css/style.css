@@ -1,3 +1,8 @@
-#canvas{
-    background-color: red;
+#object{
+    background-color: rgb(20, 19, 19);
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    margin: 20px;
+    filter: drop-shadow(0 0 15px rgb(6, 6, 6));
 }
