@@ -1,0 +1,48 @@
+button{
+    padding: 20px 50px;
+    font-size: 25px;
+    position: right;
+    color: rgb(255, 1, 1);
+    margin-top:px;
+    background-image:url(img/img1.jpeg);
+    border-radius: 5px;
+    font-weight:bold;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: 150%;
+}
+#conteudo-1{
+	text-align:justify;
+	float:center;
+	width:650px;
+	margin-top:130px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:20px;
+	background:rgba(255,255,255,0.4);
+    font-size:26px;
+	text-align:justify;
+	color:#000000;
+	font-family:arial;
+	text-decoration:none;
+	font-weight:bold;
+    border-radius: 5px;
+}
+
+#conteudo-2{
+	text-align:center;
+	float:center;
+	width:650px;
+	margin-top:2px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:20px;
+	background:rgba(255,255,255,0.5);
+    font-size:23px;
+	color:#000000;
+	font-family:arial;
+	text-decoration:none;
+	font-weight:bold;
+    border-radius: 5px;
+}
